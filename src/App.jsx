@@ -42,7 +42,7 @@ function App() {
             <div className="cards">
               <animated.div style={cardAnimation} className="card">
                 <h2>Card 1</h2>
-                <p>Some interesting content here.</p>
+                <p>Some interesting content here.here</p>
               </animated.div>
               <animated.div style={cardAnimation} className="card">
                 <h2>Card 2</h2>
@@ -56,7 +56,7 @@ function App() {
             <div className="cards2">
               <animated.div style={cardAnimation} className="card">
                 <h2>Card 4</h2>
-                <p>Some interesting content here.</p>
+                <p>Some interesting content here.here</p>
               </animated.div>
               <animated.div style={cardAnimation} className="card">
                 <h2>Card 5</h2>
