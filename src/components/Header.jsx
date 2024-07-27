@@ -2,7 +2,7 @@ import '../App.css'
 const Header = () => {
   return (
     <header className='header'>
-      <h1>My React+Vite Website</h1>
+      <h1>My Bin Khot Architects Website</h1>
     </header>
   )
 }

@@ -9,7 +9,7 @@ function App() {
       <div className="container">
         <Header />
         <main className="main">
-          <h2>Welcome to My Website</h2>
+          <h2>Welcome to Bin Khot Architects</h2>
           <p>This is a simple website for demonstration purposes.</p>
         </main>
         <Footer />
